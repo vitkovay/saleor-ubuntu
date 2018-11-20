@@ -1,11 +1,9 @@
 Разворачиваем Saleor на сервере Ubuntu 16.04
+https://github.com/mirumee/saleor
 
 Установка Node.js
-
 sudo apt install curl
-
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-
 sudo apt install nodejs
 
 Установка Postgresql
